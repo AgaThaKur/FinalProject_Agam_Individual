@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Aapp_name">Mot de recherche - Agam</string>
+    <string name="AYuvraj">Bienvenue sur la page du mot du jour</string>
+    <string name="AMuskan">Bienvenue sur la page Enregistrer votre mot</string>
+    <string name="ASearchWord">Bienvenue sur la page de mots de recherche</string>
+    <string name="Afailed">Impossible de comprendre le sens du mot</string>
+    <string name="Aowlbot">Dictionnaire Owlbot</string>
+    <string name="Asearch">Recherche</string>
+    <string name="Awod">mot du jour</string>
+    <string name="AsaveWord">enregistrer le mot</string>
+    <string name="Atype">taper un mot</string>
+    <string name="Ahome">Bienvenue sur la page daccueil</string>
+    <string name="Aempty">Le mot ne peut pas être vide</string>
+    <string name="Aalert">"Salutations! Nous sommes heureux de vous avoir ici. Voici un guide simple pour commencer :\n"
+                    "\n"
+                    "1. Tapez simplement votre nom d'utilisateur préféré dans le champ de saisie du nom d'utilisateur.\n"
+                    "2. Cliquez sur le bouton \"Rechercher\" pour trouver la signification du mot que vous avez saisi.\n"
+                    "3. Pour revenir à la page d'accueil, cliquez sur le bouton \"ACCUEIL\"\n"
+                    "4. Pour le quiz Mot du jour, cliquez sur le bouton \"Le mot du jour\".\n"
+                    "5. Pour afficher vos mots enregistrés, cliquez sur le bouton \"Muskan\"."
+                    "\n" "C'est tout ce qu'on peut en dire! Amusez-vous à explorer les différentes fonctionnalités de notre page. Si vous avez des questions ou des préoccupations, n'hésitez pas à nous contacter pour obtenir de l'aide."</string>
+    <string name="Aguide">Guide rapide</string>
+
+</resources>

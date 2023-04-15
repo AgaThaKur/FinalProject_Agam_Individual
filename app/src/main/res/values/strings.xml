@@ -1,0 +1,24 @@
+<resources>
+    <string name="Aapp_name">Search Word - Agam</string>
+    <string name="AYuvraj">Welcome to Word of the day Page</string>
+    <string name="AMuskan">Welcome to Save your word Page</string>
+    <string name="ASearchWord">Welcome to Search word Page</string>
+    <string name="Aowlbot">Owlbot Dictionary</string>
+    <string name="Afailed">Failed to get meaning of the word</string>
+    <string name="Asearch">Search</string>
+    <string name="Awod">Word of the Day</string>
+    <string name="AsaveWord">Save Word</string>
+<string name="Atype">Type a Word</string>
+    <string name="Ahome">Welcome to Home Page</string>
+    <string name="Aempty">Word Cannot be Empty</string>
+    <string name="Aalert">"Greetings! We're glad to have you here. Here's a simple guide to get started:\n"
+                    "\n"
+                    "1. Simply type in your preferred username in the username input field.\n"
+                    "2. Click on the \"Search\" button to find the meaning of the the you entered.\n"
+                    "3. To go back to the Home Page click \"HOME\" button\n"
+                    "4. For the Word of the Day quiz, click on the \"Yuvraj\" button.\n"
+                    "5. To view your saved words, click on the \"Muskan\" button."
+                    "\n" "That's all there is to it! Enjoy exploring the different features of our page. If you have any inquiries or concerns, please don't hesitate to contact us for assistance."</string>
+    <string name="Aguide">Quick Guide</string>
+
+</resources>
